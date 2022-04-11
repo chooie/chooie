@@ -1,6 +1,8 @@
-Welcome!
+Hi!
 
-I'm Charlie. I make websites.
+I'm Charlie. I work with a variety of clients to make software that helps their business.
+
+I mostly write software for the web.
 
 # Here's what I've been working on recently
 
