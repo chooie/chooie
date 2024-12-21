@@ -11,8 +11,6 @@ A cross-platform Snake game built with **C++** and **SDL3**. This is my playgrou
 
 ![Snake Game Screenshot](./images/snake_opengl.png)
 
----
-
 ### [Hack Assembler](https://github.com/chooie/hack_assembler)
 A symbolic-to-binary assembler for the Hack machine language. Through this project, I'm delving deeper into machine-level programming, bitwise operations, and file parsing.
 
