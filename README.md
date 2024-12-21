@@ -26,7 +26,7 @@ Created an interactive portfolio with smooth animations to showcase the artist's
 
 ![Jun Cha](./images/jun_cha_gallery.jpeg)
 
-### [allgoodbodycare.com](https://allgoodbodycare.com)
+#### [allgoodbodycare.com](https://allgoodbodycare.com)
 Developed a high-conversion ecommerce platform for a body care company, optimizing for mobile users and seamless checkout processes.
 
 ![All Good Bodycare](./images/all_good_bodycare.png)
