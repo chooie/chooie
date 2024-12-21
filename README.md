@@ -1,31 +1,52 @@
-Hi!
+# Hi, I'm Charlie! 👋
 
-I'm Charlie. I work with a variety of clients to make software that helps their business.
+I'm a **Software Engineer**. Ex SpotX, AWS, and ShutterStock. With over 8 years of experience building software for clients and businesses, I'm now exploring the fascinating world of **low-level programming**, **game engines**, and **real-time systems**.
 
-I mostly write software for the web.
+---
 
-# Here's what I've been working on recently
+## 🎮 Here's Some Stuff I've Worked On
 
-1. [allgoodbodycare.com](https://allgoodbodycare.com)
+### [Snake Game](https://github.com/chooie/sdl3_opengl_snake_game)
+A cross-platform Snake game built with **C++** and **SDL3**. This is my playground for learning real-time graphics rendering with OpenGL, responsive input handling, and sound integration in native applications.
 
-<img
-  alt="Desktop-sized screenshot of the Jun Cha work gallery"
-  src="./images/all_good_products_home_page.jpeg"
-  style="" />
+![Snake Game Screenshot](./images/snake_opengl.png)
 
-2. [juncha.com](https://juncha.com)
+---
 
-<img
-  alt="Desktop-sized screenshot of the Jun Cha work gallery"
-  src="./images/jun_cha_gallery.jpeg"
-  style="" />
+### [Hack Assembler](https://github.com/chooie/hack_assembler)
+A symbolic-to-binary assembler for the Hack machine language. Through this project, I'm delving deeper into machine-level programming, bitwise operations, and file parsing.
 
-# Hire me
+### Freelance Web Projects
 
-If you'd like to chat, send me an email at charles.hebert@incremental-it.com
+#### [rubyandrosebeauty.co.uk](https://rubyandrosebeauty.co.uk)
+Designed and built a responsive WordPress website for a UK-based beauty salon, focusing on user-friendly navigation and modern aesthetics.
 
-## What particular skills do I have?
+![Ruby and Rose Beauty](./images/ruby_and_rose.png)
 
-1. Fundamental web technologies (HTML, JavaScript, CSS)
-2. WordPress and WooCommerce
-3. Shopify
+#### [juncha.com](https://juncha.com)
+Created an interactive portfolio with smooth animations to showcase the artist's work. Added features for appointment management to streamline client interactions.
+
+![Jun Cha](./images/jun_cha_gallery.jpeg)
+
+### [allgoodbodycare.com](https://allgoodbodycare.com)
+Developed a high-conversion ecommerce platform for a body care company, optimizing for mobile users and seamless checkout processes.
+
+![All Good Bodycare](./images/all_good_bodycare.png)
+
+---
+
+## 🛠 My Skill Set
+
+- **Programming Languages:** C, C++, JavaScript, PHP
+- **Game Development Tools:** SDL3, OpenGL
+- **Web Technologies:** HTML, CSS, WordPress, Shopify
+- **Other Tools:** Docker, Git
+
+---
+
+## 📫 Let's Connect
+
+- Email: charlie[at]incremental-it.com
+- LinkedIn: [linkedin.com/in/hebertc](https://linkedin.com/in/hebertc)
+
+I'm always open to chatting about programming, game development, or collaborating on cool projects. Feel free to reach out!
