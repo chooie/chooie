@@ -47,4 +47,4 @@ Developed a high-conversion ecommerce platform for a body care company, optimizi
 - Email: charlie[at]incremental-it.com
 - LinkedIn: [linkedin.com/in/hebertc](https://linkedin.com/in/hebertc)
 
-I'm always open to chatting about programming, game development, or collaborating on cool projects. Feel free to reach out!
+I'm always open to chatting about programming, game development, or collaborating on cool projects. Feel free to reach out!# chooie.github.io
